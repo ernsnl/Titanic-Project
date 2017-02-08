@@ -2,6 +2,8 @@
 ## Introduction and Foundations
 ## Project: Titanic Survival Exploration
 
+My implementation of the project and the result click [here](#Results of the Project)
+
 ### Install
 
 This project requires **Python 2.7** and the following Python libraries installed:
@@ -51,3 +53,12 @@ The dataset used in this project is included as `titanic_data.csv`. This dataset
 
 **Target Variable**
 - `survival` : Survival (0 = No; 1 = Yes)
+
+### Results of the Project
+
+My implementation of the project can be seen at Result.html file.
+
+#### How to view results
+
+1. Download or clone the repo
+2. Open the Results.html file on your browser
