@@ -2,7 +2,7 @@
 ## Introduction and Foundations
 ## Project: Titanic Survival Exploration
 
-My implementation of the project and the result click [here](#Results-of-the-Project)
+My implementation of the project and the result click [here](#results-of-the-project)
 
 ### Install
 
