@@ -62,3 +62,15 @@ My implementation of the project can be seen at Result.html file.
 
 1. Download or clone the repo
 2. Open the Results.html file on your browser
+
+### Comments about implementation
+
+We know that Titanic lost most of its passengers during the incident. Using my knowledge of the event and bias from the Titanic movie. I deduct the following conclusions:
+1. Women and children first.
+2. Lower class passenger had little chance of surviving.
+3. I assume parent will sacrifice herself during that tragic event, If she has any children.
+
+Using filters like Pclass, we can see that most of the upper class survived. After that priority of survival depend on the sex of the passenger.
+If a passenger was a female, she is most likely to survive in the incident expect females at lower class cabins.
+I assume that females  who have at least one child (which I use Parch filter to see that survival rate) located in lower class cabins, they did not survive.
+I apply all the variables that I mentioned above to get a 80% prediction rate.
